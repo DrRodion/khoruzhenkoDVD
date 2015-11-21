@@ -1,0 +1,31 @@
+﻿body { 
+    background-color: papayawhip;
+    font-family: Arial;
+}
+
+h1 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#main {
+    width: 750px;
+    background-color: white;
+    margin: auto;
+    border: 1px solid gray;
+    box-shadow: 3px 3px 10px black;
+    padding: 50px;
+    background-image: url('images/paper.jpg');
+}
+
+a {
+    font-weight: bold;
+    color: blue;
+}
+
+.wideLabel {
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
